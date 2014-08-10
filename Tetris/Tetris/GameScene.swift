@@ -17,6 +17,7 @@ class GameScene: SKScene {
     override init(size: CGSize) {
         super.init(size: size)
         
+        // anchor game in top-left corner of the screen
         anchorPoint = CGPoint(x: 0, y: 1.0)
         
         let background = SKSpriteNode(imageNamed: "background")
