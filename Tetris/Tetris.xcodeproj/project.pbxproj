@@ -27,6 +27,7 @@
 		D8B44D8A1997C11A00CA5640 /* whitebg@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = D8B44D841997C11A00CA5640 /* whitebg@2x.png */; };
 		D8B44D8C1997C6A100CA5640 /* Array2D.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8B44D8B1997C6A100CA5640 /* Array2D.swift */; };
 		D8B44D8E1997D26900CA5640 /* Block.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8B44D8D1997D26900CA5640 /* Block.swift */; };
+		D8B44D9019980DD200CA5640 /* Shape.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8B44D8F19980DD200CA5640 /* Shape.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -64,6 +65,7 @@
 		D8B44D841997C11A00CA5640 /* whitebg@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "whitebg@2x.png"; sourceTree = "<group>"; };
 		D8B44D8B1997C6A100CA5640 /* Array2D.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Array2D.swift; sourceTree = "<group>"; };
 		D8B44D8D1997D26900CA5640 /* Block.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Block.swift; sourceTree = "<group>"; };
+		D8B44D8F19980DD200CA5640 /* Shape.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Shape.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -110,6 +112,7 @@
 				D8B44D571997BD8800CA5640 /* GameViewController.swift */,
 				D8B44D8B1997C6A100CA5640 /* Array2D.swift */,
 				D8B44D8D1997D26900CA5640 /* Block.swift */,
+				D8B44D8F19980DD200CA5640 /* Shape.swift */,
 				D8B44D591997BD8800CA5640 /* Main.storyboard */,
 				D8B44D5C1997BD8800CA5640 /* Images.xcassets */,
 				D8B44D4F1997BD8800CA5640 /* Supporting Files */,
@@ -274,6 +277,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				D8B44D561997BD8800CA5640 /* GameScene.swift in Sources */,
+				D8B44D9019980DD200CA5640 /* Shape.swift in Sources */,
 				D8B44D8C1997C6A100CA5640 /* Array2D.swift in Sources */,
 				D8B44D8E1997D26900CA5640 /* Block.swift in Sources */,
 				D8B44D581997BD8800CA5640 /* GameViewController.swift in Sources */,
